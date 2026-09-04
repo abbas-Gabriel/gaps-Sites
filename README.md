@@ -55,6 +55,7 @@
 
 **General Abbas** — المبرمج العراقي
 ## التثبيت
+```bash
 git clone https://github.com/abbas-Gabriel/gaps-Sites.git
 cd gaps-Sites
 pip install -r requirements.txt
